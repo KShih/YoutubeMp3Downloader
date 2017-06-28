@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.android/build-cache/8265deeda607012560baca65d556897d39c63dfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/classes_150e1ed8330af9ba5df9b5f2fe3fa4ffe6633694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.android/build-cache/321a79452d2e4daa7214806be2d11ab217bc75c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/classes_c23ae623b69d0ba492a9922f32062d54e208a545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.android/build-cache/5f6b6889d26c5bb4a095575e04bbf67d76629cfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/classes_405cc706c624a47248c65d7b307bfbb732028304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.android/build-cache/cd0f3dd5349deea2a6b50ec140a68d3fc2c73d4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/classes_f3cbe42d6491cc941835f4b28fc3e4a1c6e6e3ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_9268fb67afaae0d2bb02d327d4391cefa6639b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.android/build-cache/b9c75acbf59ae07c43bfc76e9f4512eb008c3359/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/classes_81f015798bc496a778ff170ce36d9db4d8335327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.android/build-cache/09bdb6b65597b450c87056e3e1a6e9c343dd23df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/classes_2bd211663db68d0550371f76bb486f903d665ba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.android/build-cache/ba130c7abef9a1abb4ce06746461d1cca4b75744/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/classes_f9763d3c601f1c9f830a44e8635aae72d86d02f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.android/build-cache/49498da87e2cb99986fd2fd4b3d4b31c612d8c8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/classes_b55609028d278ebefc77418d240906fe1585f73e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.7.0/1dc44f4cec20a64cebb68b90b4218f82ac7948b1/okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/okio-1.7.0_9d6b7c0ef9c175e097a5bfc46b687b2b116c7798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kshih/.android/build-cache/89255e8888c290148a80adc5d570cfa55e6d196b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/kshih/AndroidStudioProjects/YoutubeMp3Downloader/app/build/intermediates/pre-dexed/debug/classes_d5f653ee0490b9f3572575a0b1e7b9136854743b.jar" />
+    </item>
+
+</items>
