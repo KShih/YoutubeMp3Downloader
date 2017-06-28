@@ -8,13 +8,13 @@ You have two ways to download mp3 from Youtube by this app
 1. search the youtube vedio that you want to download
 2. click into that vedio
 3. press "下載" to Download
-![](http://i.imgur.com/622O3Hk.gif)
+![](https://raw.githubusercontent.com/KShih/YoutubeMp3Downloader/master/DemoGIF1.gif)
 
 ## Second way
 1. copy the vedio url anywhere
 2. open the app without click any vedio
 3. press "下載" to Download the vedio you just copy
-![](http://i.imgur.com/Wz1fhRJ.gif)
+![](https://raw.githubusercontent.com/KShih/YoutubeMp3Downloader/master/DemoGIF2.gif)
 
 # However....
 There is still a bug there in my project, sometimes you will successfully download the vedio not in the correct format( .bin or .html ).
